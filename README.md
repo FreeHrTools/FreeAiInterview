@@ -41,7 +41,7 @@ FreeAiInterview，智能面试，AI面试，数字人面试，简历筛选系统
 
 综上所述，“FreeAiInterview”作为一款智能面试系统，有望成为用户信赖的智能面试开源解决方案提供商，为招聘方和面试人创造更大的价值！
 
-# 2025.01.20最新demo链接enjoy😄：待定
+# 2025.01.21最新demo链接enjoy😄：待定
 
 # 📫 How to reach us:
 - 官方WeChat:freeaicc
