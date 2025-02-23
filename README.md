@@ -44,12 +44,13 @@ FreeAiInterview，模拟面试，智能面试，AI面试，数字人面试，简
 # 2025.02.23最新demo链接enjoy😄：待定
 
 # 📫 How to reach us:
+- 本源码是运营人员所上传，难免疏漏，还请原谅。
 - 官方WeChat:freeaicc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com
 
-![输入图片说明](Picture/FreeAICC-FreeHrTools.png)
+![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
 
 # FreeAiInterview智能面试：关于源码与付费（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！
