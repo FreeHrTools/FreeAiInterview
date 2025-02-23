@@ -50,6 +50,9 @@ FreeAiInterview，智能面试，AI面试，数字人面试，简历筛选系统
 - Email:leehear@gmail.com 
 ![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
 
+# 屏幕截图
+<img width="1450" alt="image" src="https://github.com/user-attachments/assets/2dcd9883-4407-473d-9474-529329319c2e" />
+
 # FreeAiInterview智能面试：关于源码与付费
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。
 
