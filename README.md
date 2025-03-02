@@ -59,7 +59,8 @@ FreeAiInterview，模拟面试，智能面试，AI面试，数字人面试，简
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com
 
-![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
+![FreeAiClub-微信二维码](https://github.com/user-attachments/assets/072c7b0e-71a0-4761-b3d4-3fee3b2a4e32)
+
 
 # FreeAiInterview智能面试：关于源码与付费（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！！
