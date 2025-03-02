@@ -54,7 +54,7 @@ FreeAiInterview，模拟面试，智能面试，AI面试，数字人面试，简
 
 # 📫 How to reach us:
 - 本源码是运营人员所上传，难免疏漏，还请原谅。
-- 官方WeChat:freeaicc
+- 官方WeChat:David_Li_Haiya
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com
