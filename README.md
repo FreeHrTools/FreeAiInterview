@@ -1,5 +1,5 @@
 # FreeAiInterview智能面试
-FreeAiInterview，模拟面试，智能面试，AI面试，数字人面试，简历筛选系统，自动化面试，智能匹配算法，在线面试，企业自建面试系统。!
+FreeAiInterview，模拟面试，智能面试，AI面试，数字人面试，简历筛选系统，自动化面试，智能匹配算法，在线面试，企业自建面试系统!!!
 
 # FreeAiInterview智能面试：基本功能
 
@@ -54,13 +54,12 @@ FreeAiInterview，模拟面试，智能面试，AI面试，数字人面试，简
 
 # 📫 How to reach us:
 - 本源码是运营人员所上传，难免疏漏，还请原谅。
-- 官方WeChat:David_Li_Haiya
+- 官方WeChat:扫码下侧的企业微信二维码即可（可对公签合同，更有保障）
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com
-
-![FreeAiClub-微信二维码](https://github.com/user-attachments/assets/072c7b0e-71a0-4761-b3d4-3fee3b2a4e32)
-
+- 
+![easyaicc-企业微信二维码](https://github.com/user-attachments/assets/6ad2ff92-9c57-442e-a0de-ed8b6187b817)
 
 # FreeAiInterview智能面试：关于源码与付费（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！！！
