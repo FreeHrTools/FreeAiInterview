@@ -42,6 +42,7 @@ FreeAiInterview，模拟面试，智能面试，AI面试，数字人面试，简
 综上所述，“FreeAiInterview”作为一款智能面试系统，有望成为用户信赖的智能面试开源解决方案提供商，为招聘方和面试人创造更大的价值。
 
 # 2025.03.06最新demo链接enjoy😄：待定
+
 # 页面部分截图
 <img width="1450" alt="image" src="https://github.com/user-attachments/assets/9741376d-819b-48ff-a47d-8c2092ea30d7" />
 <img width="1454" alt="image" src="https://github.com/user-attachments/assets/d4a90a93-8553-43a3-8384-8f258c36ca59" />
@@ -58,8 +59,8 @@ FreeAiInterview，模拟面试，智能面试，AI面试，数字人面试，简
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com
-- 
+
 ![easyaicc-企业微信二维码](https://github.com/user-attachments/assets/6ad2ff92-9c57-442e-a0de-ed8b6187b817)
 
 # FreeAiInterview智能面试：关于源码与付费（我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代）
-付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！！！
+付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。可对公签合同，更有保障！我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
