@@ -1,5 +1,5 @@
 # FreeAiInterview智能面试
-FreeAiInterview，模拟面试，智能面试，AI面试，数字人面试，简历筛选系统，自动化面试，智能匹配算法，在线面试，企业自建面试系统!!!!!!!!!!!
+FreeAiInterview，模拟面试，智能面试，AI面试，数字人面试，简历筛选系统，自动化面试，智能匹配算法，在线面试，企业自建面试系统!!
 
 # FreeAiInterview智能面试：基本功能
 
@@ -41,7 +41,7 @@ FreeAiInterview，模拟面试，智能面试，AI面试，数字人面试，简
 
 综上所述，“FreeAiInterview”作为一款智能面试系统，有望成为用户信赖的智能面试开源解决方案提供商，为招聘方和面试人创造更大的价值。
 
-# 2025.03.09最新demo链接enjoy😄：待定
+# 2025.03.13最新demo链接enjoy😄：待定
 
 # 页面部分截图
 <img width="1450" alt="image" src="https://github.com/user-attachments/assets/9741376d-819b-48ff-a47d-8c2092ea30d7" />
